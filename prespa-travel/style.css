@@ -1,0 +1,26 @@
+/*
+ Theme Name:        Prespa Travel
+ Theme URI:         https://nasiothemes.com/themes/prespa/
+ Description:       Prespa Travel serves as a child theme of Prespa, inheriting all the features of Prespa. The theme is crafted for travel agencies, travel gurus, digital nomads, influencers, writers, bloggers, photographers and other creative individuals or businesses who wish to showcase their work. Theme demo: https://prespa-travel-demo.nasiothemes.com/
+ Author:            Atanas Yonkov
+ Author URI:        http://nasiothemes.com
+ Template:          prespa
+ Requires at least: 6.1
+ Tested up to:      6.7
+ Requires PHP:      5.6
+ Version:           1.0.3
+ License:           GNU General Public License v2 or later
+ License URI:       http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:       prespa-travel
+ Tags:              blog, news, e-commerce, one-column, two-columns, three-columns, four-columns, grid-layout, right-sidebar, left-sidebar, block-patterns, wide-blocks, custom-colors, custom-header, custom-logo, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+*/
+
+/* Add your child theme's custom css below */
+
+.dark-mode {
+    --wp--preset--color--dark-gray: #f7f7f7;
+    --wp--preset--color--silver-blue: #020205;
+    --wp--preset--color--text-secondary: #d2d2d2;
+    --wp--preset--color--beige: #262626;
+    --wp--preset--color--dark-beige: #161616;
+}
